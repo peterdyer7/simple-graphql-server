@@ -5,3 +5,4 @@ Very simple GraphQL Server created using apollo-server 2. API exposes hardcoded 
 Discussed in blog:
 
 - https://www.fullsapps.com/2019/01/need-quick-graphql-server.html
+- https://www.fullsapps.com/2019/01/apollo-subscriptions.html
